@@ -1,3 +1,4 @@
+@import url('https://fonts.google.com/specimen/Kumbh+Sans')
 html,
 body,
 #app {
@@ -8,4 +9,12 @@ body,
 
 html.dark {
   background: #121212;
+}
+
+.orange {
+  color: hsl(26, 100%, 55%);
+}
+
+.page-orange {
+  background: hsl(25, 100%, 94%)
 }
